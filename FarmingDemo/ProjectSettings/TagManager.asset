@@ -41,6 +41,36 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: GoundBottom
+    uniqueID: 3981718419
+    locked: 0
+  - name: GoundMiddle
+    uniqueID: 1944485625
+    locked: 0
+  - name: GoundTop
+    uniqueID: 2283364903
+    locked: 0
+  - name: Stuff1
+    uniqueID: 2010772631
+    locked: 0
+  - name: Stuff2
+    uniqueID: 1000644827
+    locked: 0
+  - name: Dig
+    uniqueID: 824360161
+    locked: 0
+  - name: Water
+    uniqueID: 2342719131
+    locked: 0
   - name: instance
     uniqueID: 2738784975
+    locked: 0
+  - name: Front1
+    uniqueID: 2992566895
+    locked: 0
+  - name: Front2
+    uniqueID: 4172619137
+    locked: 0
+  - name: Collision
+    uniqueID: 2856189797
     locked: 0
