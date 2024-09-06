@@ -11,9 +11,6 @@ public class Player : MonoBehaviour
     private float inputY;
     private Vector2 vector2;
 
-     /// <summary>
-    /// Awake is called when the script instance is being loaded.
-    /// </summary>
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -42,9 +39,6 @@ public class Player : MonoBehaviour
         PlayerInput();
     }
   
-    /// <summary>
-    /// This function is called every fixed framerate frame, if the MonoBehaviour is enabled.
-    /// </summary>
     void FixedUpdate()
     {
         Movement();
